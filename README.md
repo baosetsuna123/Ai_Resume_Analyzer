@@ -1,4 +1,4 @@
-# <div align="center">CV Analyzer</div>
+# <div align="center"> AI Resume Analyzer</div>
 
 A modern, full-stack application for analyzing resumes with advanced features like file uploads, server-side rendering, and a clean, responsive UI.
 
